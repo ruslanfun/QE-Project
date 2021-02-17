@@ -1,5 +1,7 @@
 # QE-Project
 
+This is a coding challenge for Quality Engineer candidates. It is intended to asses technical skills and solution design. Please [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this project and submit your personal repository for review.
+
 ## Getting Started
 
 Clone the repository, and from within the project folder run the following commands to start the application locally

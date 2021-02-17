@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# exclude lock files for private package repository discrepancies (don't do this in a real project)
+package-lock.json
+yarn.lock
